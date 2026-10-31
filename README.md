@@ -6,4 +6,6 @@ Extra credit?: No
 
 Team: 
 Alexander Sanchez, alexandersanchez@csu.fullerton.edu
-
+Terry Li yli164@csu.fullerton.edu
+Beth Le elizabethdle@csu.fullerton.edu
+Elnaz Vakili elnaz0@csu.fullerton.edu
